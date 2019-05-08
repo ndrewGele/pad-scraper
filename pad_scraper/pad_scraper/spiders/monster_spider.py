@@ -1,14 +1,20 @@
 from scrapy import Spider
 from scrapy import Selector
-import re
+from re import sub
+from datetime import datetime
 
 
 class MonsterSpider(Spider):
     name = 'monster'
-    start_urls = [
-        'http://www.puzzledragonx.com/en/monster.asp?n='
-        + str(i) for i in range(1,5000)
-    ]
+    
+    def __init__(self, start = '1', end = '5', **kwargs):
+
+        super().__init__(**kwargs)
+
+        self.start_urls = [
+            'http://www.puzzledragonx.com/en/monster.asp?n='
+            + str(i) for i in range(int(start), int(end)+1)
+        ]
 
     def parse(self, response):
         sel = Selector(response)
@@ -47,8 +53,9 @@ class MonsterSpider(Spider):
             'ATK': stats[3].css('td::text').getall()[2],
             'RCV': stats[4].css('td::text').getall()[2],
             'WGHT': stats[5].css('td::text').getall()[1],
-            'AWAKE': [re.sub("=", "", x) for x in awakenings],
-            'S_AWAKE': [re.sub("=", "", x) for x in s_awakenings],
+            'AWAKE': [sub("=", "", x) for x in awakenings],
+            'S_AWAKE': [sub("=", "", x) for x in s_awakenings],
             'SKILL_TEXT': skills[0],
-            'LEAD_TEXT': re.sub("\r\n\t\t\t\t\t\t", "None", skills[4])
+            'LEAD_TEXT': sub("\r\n\t\t\t\t\t\t", "None", skills[4]), # Maybe there's a better way to deal with this garbage lmao
+            'READ_DATE': datetime.now()
         }
