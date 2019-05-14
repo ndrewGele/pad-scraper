@@ -1,0 +1,61 @@
+{"AWOKEN": "3", "AWOKEN_DESC": "Enhanced HP", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "4", "AWOKEN_DESC": "Enhanced Attack", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "5", "AWOKEN_DESC": "Enhanced Heal", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "48", "AWOKEN_DESC": "Enhance Team HP", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "49", "AWOKEN_DESC": "Enhance Team RCV", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "11", "AWOKEN_DESC": "Auto-Recover", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "22", "AWOKEN_DESC": "Recover Bind", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "21", "AWOKEN_DESC": "Extend Time", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "55", "AWOKEN_DESC": "Extended Move Time+", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "29", "AWOKEN_DESC": "Two-Pronged Attack", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "23", "AWOKEN_DESC": "Skill Boost", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "58", "AWOKEN_DESC": "Skill Boost+", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "53", "AWOKEN_DESC": "Skill Charge", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "6", "AWOKEN_DESC": "Reduce Fire Damage", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "7", "AWOKEN_DESC": "Reduce Water Damage", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "8", "AWOKEN_DESC": "Reduce Wood Damage", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "9", "AWOKEN_DESC": "Reduce Light Damage", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "10", "AWOKEN_DESC": "Reduce Dark Damage", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "12", "AWOKEN_DESC": "Resistance-Bind", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "54", "AWOKEN_DESC": "Resistance-Bind+", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "13", "AWOKEN_DESC": "Resistance-Dark", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "14", "AWOKEN_DESC": "Resistance-Jammers", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "15", "AWOKEN_DESC": "Resistance-Poison", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "56", "AWOKEN_DESC": "Resistance-Clouds", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "57", "AWOKEN_DESC": "Resistance-Immobility", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "30", "AWOKEN_DESC": "Resistance-Skill Bind", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "16", "AWOKEN_DESC": "Enhanced Fire Orbs", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "17", "AWOKEN_DESC": "Enhanced Water Orbs", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "18", "AWOKEN_DESC": "Enhanced Wood Orbs", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "19", "AWOKEN_DESC": "Enhanced Light Orbs", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "20", "AWOKEN_DESC": "Enhanced Dark Orbs", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "31", "AWOKEN_DESC": "Enhanced Heart Orbs", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "24", "AWOKEN_DESC": "Enhanced Fire Attribute", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "25", "AWOKEN_DESC": "Enhanced Water Attribute", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "26", "AWOKEN_DESC": "Enhanced Wood Attribute", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "27", "AWOKEN_DESC": "Enhanced Light Attribute", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "28", "AWOKEN_DESC": "Enhanced Dark Attribute", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "33", "AWOKEN_DESC": "Dragon Killer", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "34", "AWOKEN_DESC": "God Killer", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "35", "AWOKEN_DESC": "Devil Killer", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "36", "AWOKEN_DESC": "Machine Killer", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "37", "AWOKEN_DESC": "Attacker Killer", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "38", "AWOKEN_DESC": "Physical Killer", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "39", "AWOKEN_DESC": "Healer Killer", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "40", "AWOKEN_DESC": "Balanced Killer", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "41", "AWOKEN_DESC": "Awaken Material Killer", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "42", "AWOKEN_DESC": "Enhance Material Killer", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "43", "AWOKEN_DESC": "Vendor Material Killer", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "44", "AWOKEN_DESC": "Evolve Material Killer", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "45", "AWOKEN_DESC": "Enhanced Combo", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "63", "AWOKEN_DESC": "Enhanced 10 Combo", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "47", "AWOKEN_DESC": "Bonus Attack", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "52", "AWOKEN_DESC": "Super Bonus Attack", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "59", "AWOKEN_DESC": "80% or more HP Enhanced", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "60", "AWOKEN_DESC": "50% or less HP Enhanced", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "62", "AWOKEN_DESC": "[L] Increased Attack", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "61", "AWOKEN_DESC": "[L] Damage Reduction", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "32", "AWOKEN_DESC": "Multi Boost", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "46", "AWOKEN_DESC": "Guard Break", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "50", "AWOKEN_DESC": "Void Damage Piercer", "READ_DATE": "2019-05-14 00:46:33"}
+{"AWOKEN": "51", "AWOKEN_DESC": "Awoken Assist", "READ_DATE": "2019-05-14 00:46:33"}

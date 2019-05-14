@@ -5,9 +5,9 @@ from datetime import datetime
 
 
 # Following Scrapy Tutorial Mostly
-class AwakeningSpider(Spider):
+class AwokenSpider(Spider):
 
-    name = 'awake'
+    name = 'awoken'
 
     def __init__(self):
 
@@ -24,13 +24,13 @@ class AwakeningSpider(Spider):
         nums = sel.xpath("//td[@class='awokenindex']//a/@href").getall()
         descs = sel.xpath("//td[@class='awokenindex']//img/@title").getall()
 
+
+
         # Return this nice json
-        print(nums)
-        print(descs)
 
         for i in range(len(nums)):
             yield {
-                'AWAKE': sub(r'\D', '', nums[i]),
-                'AWAKE_DESC': descs[i],
+                'AWOKEN': sub(r'\D', '', nums[i]),
+                'AWOKEN_DESC': descs[i],
                 'READ_DATE': datetime.now()
             }
