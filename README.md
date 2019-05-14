@@ -14,7 +14,7 @@ To run the spider, use the following command from the /pad-scraper/pad_scraper(/
 ## Awoken Skill Sraper
 
 This spider simply pulls all of the skills from the Awoken Skill List page.  
-No arguments are needed, so it can siumply be run with:
+No arguments are needed, so it can siumply be run with:  
 ```scrapy crawl awoken -s FEED_FORMAT=jsonlines -s FEED_URI=awoken.jsonl```
 
 ## To Do List
