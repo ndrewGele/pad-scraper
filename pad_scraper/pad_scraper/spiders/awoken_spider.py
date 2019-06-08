@@ -27,7 +27,6 @@ class AwokenSpider(Spider):
 
 
         # Return this nice json
-
         for i in range(len(nums)):
             yield {
                 'AWOKEN': sub(r'\D', '', nums[i]),
