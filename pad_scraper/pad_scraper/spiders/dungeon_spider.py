@@ -43,6 +43,7 @@ class DungeonSpider(Spider):
             floors.append({
                 'FLOOR': floor.xpath("td[1]/text()"),
                 'MONSTER': 'mon',
+                'TYPES': 'types',
                 'TURN': 'trn',
                 'DEFENSE': 'def',
                 'HP': 'hp',
