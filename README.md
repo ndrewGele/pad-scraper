@@ -41,6 +41,6 @@ No arguments are needed, so it can siumply be run with:
   - Use to locate those aforementioned edge cases
   - What if it automatically crawled and updated the bad records too Kreygasm  
 - Data cleaning  
-  - JSONL is easy to append to and the current format makes sense, but a flatter data structure would likely be easier to use
+  - JSONL is easy to append to, and the current format makes sense, but a flatter data structure would likely be easier to use
   - Raw skill text for monsters and dungeons could be turned into dummy variables, but it's **very raw** lol  
 - Make something new that actually uses the data!  
